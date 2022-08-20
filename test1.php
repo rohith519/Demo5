@@ -1,1 +1,1 @@
-<html><head></head><body>Hello This is a trial <body></html>
+<html><head></head><body> This is a demo for Pull requests in git </body></html>
